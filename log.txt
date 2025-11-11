@@ -1,2 +1,7 @@
-9668ad2 (HEAD -> main, origin/main, origin/HEAD) finish task 1.1
+b3a3f36 (HEAD -> main) finish task 2.4
+df643d5 (origin/main, origin/HEAD) finish task 2.3
+4130b45 finish task 2.2
+65bb7fe finish task2.1
+96daf9b finish task 1.2
+9668ad2 finish task 1.1
 8156d03 Initial commit
